@@ -1,5 +1,5 @@
-Nama        :Rivaldo Marta Dinata
-NBI         :1461900135
-Kelas       :SORE
-Praktikum   :Pengembangan Teknologi WEB
+Nama        :Rivaldo Marta Dinata <br>
+NBI         :1461900135 <br>
+Kelas       :SORE<br>
+Praktikum   :Pengembangan Teknologi WEB<br>
 Tugas Kegiatan Ke-2
